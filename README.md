@@ -1,5 +1,6 @@
 # dodoseni.github.io
-Saine Drammeh
+Hello! my name is Saine Drammeh
+
 Welcome to my personal portfolio! I’m a last year master student at University Of Oslo!
 
 ## About Me
